@@ -1,0 +1,10 @@
+baseurl = "http://daqian.gift"
+languageCode = "en-us"
+title = "Daqian"
+contentdir = "content"
+publishdir = "public"
+
+[params]
+    themeColor = "theme-base-08"
+    description = "曾大千，程序员一枚，会一点儿iOS"
+    author = "曾大千"
